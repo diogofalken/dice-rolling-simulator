@@ -14,7 +14,6 @@ In Ubuntu, Mint and Debian you can install Python 3 like this:
 To use you just need to do this in Linux:  
 	```
 	$ git clone https://github.com/diogofalken/dice-rolling-simulator.git   
-
 	$ cd dice-rolling-simulator  
 
 	$./main.py  
