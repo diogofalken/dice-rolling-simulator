@@ -15,7 +15,7 @@ To use you just need to do this in Linux:
 ```
 $ git clone https://github.com/diogofalken/dice-rolling-simulator.git   
 $ cd dice-rolling-simulator  
-$./main.py  
+$ python3 main.py
 ```
 
 And you just need to follow the program.  
